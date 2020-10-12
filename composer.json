@@ -1,0 +1,12 @@
+{
+    "name": "mac/mq",
+    "authors": [
+        {
+            "name": "renmingming",
+            "email": "renmingming@dwnews.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^2.12"
+    }
+}
